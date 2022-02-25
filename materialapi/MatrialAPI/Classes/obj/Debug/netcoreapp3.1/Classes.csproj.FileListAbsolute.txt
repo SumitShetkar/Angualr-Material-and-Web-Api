@@ -1,0 +1,12 @@
+E:\projects\materialapi\MatrialAPI\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+E:\projects\materialapi\MatrialAPI\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+E:\projects\materialapi\MatrialAPI\Classes\obj\Debug\netcoreapp3.1\Classes.csprojAssemblyReference.cache
+E:\projects\materialapi\MatrialAPI\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+E:\projects\materialapi\MatrialAPI\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+E:\projects\materialapi\MatrialAPI\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+E:\projects\materialapi\MatrialAPI\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+E:\projects\materialapi\MatrialAPI\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+E:\projects\materialapi\MatrialAPI\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+E:\projects\materialapi\MatrialAPI\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
+E:\projects\materialapi\MatrialAPI\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache
+E:\projects\materialapi\MatrialAPI\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache

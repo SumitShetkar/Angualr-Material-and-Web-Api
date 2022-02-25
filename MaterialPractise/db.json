@@ -1,0 +1,32 @@
+{
+  "productlist": [
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 550,
+      "comments": "eat an apple",
+      "date": "2022-02-21T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "poato",
+      "category": "Vegetables",
+      "freshness": "Brand new",
+      "price": 100,
+      "comments": "asdfgh",
+      "date": "2022-02-15T18:30:00.000Z",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
