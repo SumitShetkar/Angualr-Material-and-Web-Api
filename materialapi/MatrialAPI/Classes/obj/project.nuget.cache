@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KlI9NAUBqUOYhxMl/vcaXqnUCRSc/LJ89XTJwME33UjxPTmJ0HV5y43JhkoTbw25j037zymq0vtT3P7gGao0eQ==",
+  "dgSpecHash": "6ScBkhN7VHUpWKLCC46Pu4+MFxTxWMuWikqggahyyF9MDbFw1O8VCdu2I+Z2GdMbBKeOU65ftK+YBe9Z0CAMFg==",
   "success": true,
-  "projectFilePath": "E:\\projects\\materialapi\\MatrialAPI\\Classes\\Classes.csproj",
+  "projectFilePath": "E:\\projects\\matrial woth asp.net core\\materialapi\\MatrialAPI\\Classes\\Classes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sumit\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\sumit\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AoU+k+pXx+6ukUN9OO6JyRngWVM5FXK+zB65vIZVNsD0paBZzdG4juobA6S3YFLBWBIwVGQvQbSeRo8l6hLg9g==",
+  "dgSpecHash": "sy/nHy8Mqzo/wwEC1g8j1EK5jkK+PEytXamSA25AR3RqZe8kiofCLcv5oaIGP1mTsaZAIgsJs9MBA5N/gNCFSw==",
   "success": true,
-  "projectFilePath": "E:\\projects\\materialapi\\MatrialAPI\\MaterialAPI\\MaterialAPI.csproj",
+  "projectFilePath": "E:\\projects\\matrial woth asp.net core\\materialapi\\MatrialAPI\\MaterialAPI\\MaterialAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sumit\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\sumit\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.7\\microsoft.aspnet.webapi.core.5.2.7.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\projects\\materialapi\\MatrialAPI\\Classes\\Classes.csproj": {}
+    "E:\\projects\\matrial woth asp.net core\\materialapi\\MatrialAPI\\Classes\\Classes.csproj": {}
   },
   "projects": {
-    "E:\\projects\\materialapi\\MatrialAPI\\Classes\\Classes.csproj": {
+    "E:\\projects\\matrial woth asp.net core\\materialapi\\MatrialAPI\\Classes\\Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\projects\\materialapi\\MatrialAPI\\Classes\\Classes.csproj",
+        "projectUniqueName": "E:\\projects\\matrial woth asp.net core\\materialapi\\MatrialAPI\\Classes\\Classes.csproj",
         "projectName": "Classes",
-        "projectPath": "E:\\projects\\materialapi\\MatrialAPI\\Classes\\Classes.csproj",
+        "projectPath": "E:\\projects\\matrial woth asp.net core\\materialapi\\MatrialAPI\\Classes\\Classes.csproj",
         "packagesPath": "C:\\Users\\sumit\\.nuget\\packages\\",
-        "outputPath": "E:\\projects\\materialapi\\MatrialAPI\\Classes\\obj\\",
+        "outputPath": "E:\\projects\\matrial woth asp.net core\\materialapi\\MatrialAPI\\Classes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

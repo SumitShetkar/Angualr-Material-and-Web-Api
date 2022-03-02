@@ -5,6 +5,7 @@ import {ApiService} from './services/api.service';
 import {MatPaginator} from '@angular/material/paginator';
 import {MatSort} from '@angular/material/sort';
 import {MatTableDataSource} from '@angular/material/table';
+import { GenericserviceService } from './services/genericservice.service';
 
 @Component({
   selector: 'app-root',
@@ -40,7 +41,7 @@ export class AppComponent implements OnInit {
   }
 
   getAllProducts(){
-    this.api.getproduct().subscribe({
+    this.api.getAll().subscribe({
       next:(res) =>
       {
         this.dataSource = new MatTableDataSource(res);
@@ -75,7 +76,7 @@ export class AppComponent implements OnInit {
 
   deleteProduct(id:number)
   {
-    this.api.deleteProduct(id).subscribe({
+    this.api.delete(id).subscribe({
       next:(res)=>{alert("successfully deleted"),
       this.getAllProducts()},
       error:()=>{alert("error while deleting the record")}
